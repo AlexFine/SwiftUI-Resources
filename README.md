@@ -8,5 +8,8 @@ Just a list of good websites, docs, notes, advice, etc.
 
 
 ## Notes 
-Empty dictionaries can be initialized as <code> let emptyDictionary = \[String: Float\]() </code> and if type can be inferred use <code> dictName = [:] </code>
+<ul>
+  <li> Empty dictionaries can be initialized as <code> let emptyDictionary = \[String: Float\]() </code> and if type can be inferred use <code> dictName = [:] </code> </li>
+  
+</ul>
 
