@@ -11,6 +11,7 @@ Just a list of good websites, docs, notes, advice, etc.
 <ul>
   <li> Empty dictionaries can be initialized as <code> let emptyDictionary = \[String: Float\]() </code> and if type can be inferred use <code> dictName = [:] </code> </li> 
   <li> Dictionaries aren't dictionaries ... super weird. They're hash tables. </li>
+  <li> For setting values which sometimes exist, but not always, optionals are a great choice. <code> var optionalString: String? = "Faf" </code>
   
 </ul>
 
