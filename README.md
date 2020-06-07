@@ -19,3 +19,9 @@ Just a list of good websites, docs, notes, advice, etc.
   
 </ul>
 
+## TODO 
+<ul> 
+  <li> How to properly decompose projects into folders </li> 
+  <li> How to properly listen for events </li> 
+  <li> How to best handle asynchronous firebase requests </li> 
+ </ul>
