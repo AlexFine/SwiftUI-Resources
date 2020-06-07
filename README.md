@@ -25,4 +25,5 @@ Just a list of good websites, docs, notes, advice, etc.
   <li> How to properly listen for events </li> 
   <li> How to best handle asynchronous firebase requests </li> 
   <li> Dot notation when unattached to an object </li>
+  <li> How to properly flip a textgradient (add a small custom function to a variable </li>
  </ul>
