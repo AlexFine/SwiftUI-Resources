@@ -5,6 +5,7 @@ Just a list of good websites, docs, notes, advice, etc.
 <ul>
   <li> Properly load images from server: https://medium.com/@dmytro.anokhin/url-image-view-in-swiftui-f08f85d942d8  </li>
   <li> Import fonts: https://medium.com/better-programming/swiftui-basics-importing-custom-fonts-b6396d17424d </li>
+  <li> Great swift blog & Podcast: https://www.swiftbysundell.com/ </li>
 </ul>
 
 
