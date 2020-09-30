@@ -16,6 +16,7 @@ Just a list of good websites, docs, notes, advice, etc.
   <li> For setting values which sometimes exist, but not always, optionals are a great choice. <code> var optionalString: String? = "Faf" </code> </li>
   <li> In situations of multiple optionalities which don't all subscribe to the same condition, use <code> switch </code> instead of <code> if </code> </li>
   <li> Fun swift feature, a functions external vs. internal nameing can be different. Use case <code> func sayHi (_ person: String, sirname lastname: String) {} </code> </li>
+  <li> <code>xcrun simctl io booted recordVideo appvidx3.mp4 </code> to save simulator videos </li>
   
 </ul>
 
